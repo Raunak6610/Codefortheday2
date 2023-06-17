@@ -1,0 +1,30 @@
+
+body{ background-color: #b0b0c6;}
+
+h1{
+    color:rgb(169,4,215);
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 80px;
+}
+
+#PAPA{
+    float: left;
+    margin-right: 6px;
+    border: 10px solid rgb(243, 143, 28);
+}
+
+.ID{
+    font-size: 30px;
+    font-family: Arial;
+    color: hsl(277, 84%, 20%);
+    text-shadow: 2px 2px 4px navy;
+}
+
+#LEFTY{
+    text-align: right;
+    font-size: 30px;
+    font-family: Arial;
+    color: hsl(277, 84%, 20%);
+    text-shadow: 2px 2px 4px navy;
+}

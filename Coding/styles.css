@@ -1,0 +1,28 @@
+
+body{ background-color: #b0b0c6;
+      border-style: solid;
+      border-width: 5px;
+      border-radius: 15px;
+      border-color: rgb(31, 95, 96);
+}
+
+h1{
+    color:rgb(169, 4, 215);
+    text-align: center;
+    text-shadow: 3px 3px 5px red;
+    font-size: 50px;
+}
+
+h2{
+    color: rgb(1, 6, 81);
+    text-shadow: 2px 2px 6px purple;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.big-text {
+    font-size: 24px;
+    color: hsl(277, 84%, 20%);
+    text-shadow: 1px 1px 4px violet;
+  }
+
